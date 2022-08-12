@@ -19,8 +19,8 @@
 - 🌱 I’m currently learning **Cloud Technology and Information Security**
 
 - 💬 Ask me about **Ethical Hacking and Cloud Tech**
-<a href="http://stackoverflow.com" target="_blank">Go</a>
-- 📄 Wanna know more about me here is my <a href="https://drive.google.com/drive/folders/1QavKR3BdKAIcF83SvRnmkVLJRVJQNNyV" target="_self"> Curriculum Vitae</a>
+
+- 📄 Wanna know more about me here is my <a href="https://drive.google.com/drive/folders/1QavKR3BdKAIcF83SvRnmkVLJRVJQNNyV" target="blank"> Curriculum Vitae</a>
 
 - ⚡ Fun fact **I think, I am Stupid 🤣 beacuse I don't use comments.**
 
