@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikit Singh Kanyal</h1>
 
-<h3 align="center">I am pursuing my BCA degree and working to be a sucessfull Ethical Hacker or a Software Developer. This is the place where I show my code and break others</h3>
+<h3 align="center">I am pursuing my BCA degree and working to be a sucessful Ethical Hacker or a Software Developer. This is the place where I show my code and break others</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikit-370&show_icons=true&locale=en&layout=compact" alt="nikit-370" /></p>
 
