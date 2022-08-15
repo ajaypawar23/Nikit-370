@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikit-370&show_icons=true&locale=en&layout=compact" alt="nikit-370" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikit-370&show_icons=true&locale=en" alt="nikit-370" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikit-370&" alt="nikit-370" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikit-370&" alt="nikit-370" /></p><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikit-370&label=Profile%20views&color=0e75b6&style=flat" alt="nikit-370" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikit-370" alt="nikit-370" /></a></p>
 
